@@ -1,4 +1,4 @@
-# **Pokedex -  Xyms**
+# **Pokedex - Xyms**
 
 ## **Descrição**
 
@@ -8,9 +8,9 @@ A interface é limpa e intuitiva, permitindo que os usuários pesquisem rapidame
 
 ## **Tecnologias Utilizadas**
 
-### ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ## **Como Usar**
 
@@ -20,6 +20,8 @@ A interface é limpa e intuitiva, permitindo que os usuários pesquisem rapidame
 
    ```bash
    git clone https://github.com/xyms/Pokedex-xyms.git
+   ```
 
 ## **Pokémon**
-![GIF do Projeto](./Pokemon/image/pokemon-fire-red.gif)
+
+<img src="./Pokemon/image/pokemon-fire-red.gif" width="100%" />
